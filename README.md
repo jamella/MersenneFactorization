@@ -1,2 +1,2 @@
-# RSAFunnyFactorization
-Some funny and Ad-hoc factorization algorithm
+# RSAMersenneFactorization
+Factorize two product of mersenne primes  
